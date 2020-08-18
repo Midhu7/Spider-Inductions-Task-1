@@ -1,0 +1,56 @@
+LOG FILE
+
+git log --oneline
+
+5d37b7d (HEAD -> master, origin/master, spider) Added commit6_spider.txt to branch spider
+1ecf655 Added commit5_spider.txt to branch spider
+2497d7e Merge branch 'develop' into master
+cbb6abc (develop) Added commit4_develop.txt to branch develop
+1bbed73 Added commit3_master.txt to branch master
+6c4899c Added commit2_develop.txt to new branch develop
+496d3ed initial commit
+
+git log
+
+commit 5d37b7d3cfd7ab37509cbb7600f4ce63a32de9bd (HEAD -> master, origin/master, spider)
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:28:54 2020 +0530
+
+    Added commit6_spider.txt to branch spider
+
+commit 1ecf655979b395d2df31ca6d9f28970be3941a04
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:28:00 2020 +0530
+
+    Added commit5_spider.txt to branch spider
+
+commit 2497d7ead27ad8ec222886ccf2d6aa5eeee6463b
+Merge: 1bbed73 cbb6abc
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:26:14 2020 +0530
+
+    Merge branch 'develop' into master
+
+commit cbb6abcfc0bc79ae43d48728b7a7a0c9aa27d7f8 (develop)
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:25:51 2020 +0530
+
+    Added commit4_develop.txt to branch develop
+
+commit 1bbed731b45e7d6fcc1d9ec7dc916aa2258e59c4
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:23:55 2020 +0530
+
+    Added commit3_master.txt to branch master
+
+commit 6c4899c58aff0474d2c201f7f896cecf7b788f0d
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:22:12 2020 +0530
+
+    Added commit2_develop.txt to new branch develop
+
+commit 496d3edcf72f54053951e5d4264e66ceccdef30a
+Author: Midhuram Manoj <midhuramanoj7@gmail.com>
+Date:   Tue Aug 18 13:18:50 2020 +0530
+
+    initial commit
